@@ -1,0 +1,6 @@
+org\ifc\restservices\model\Customer.class
+org\ifc\restservices\servicesImpl\CustomerServiceImpl.class
+org\ifc\restservices\CustomerApplication.class
+org\ifc\restservices\services\CustomerService.class
+org\ifc\restservices\controller\CustomerController.class
+org\ifc\restservices\repository\CustomerRepository.class
